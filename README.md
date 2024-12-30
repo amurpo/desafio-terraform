@@ -96,7 +96,7 @@ Contiene los valores específicos de las variables:
 * **ssh_key_name**: "desafiolatam-cursodevops"
 * **availability_zone**: "sa-east-1a"
 
-> ⚠️ **Advertencia:** Normalmente están en un .gitignore pero se muestran por ser una práctica.
+> ⚠️ **Advertencia:** Normalmente tfvars está en un .gitignore pero se muestran por ser una práctica.
 
 ### `variables.tf`
 Define las variables utilizadas en el proyecto:
